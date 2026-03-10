@@ -1,7 +1,6 @@
 # Conversor de Monedas con Java
 
 ¡Hola! Mi nombre es Omar Carrillo, soy estudiante de programación en Java dentro del programa Oracle Next Education, en esta ocasión he realizado este reto que consiste en el desarrollo de una aplicación que convierte divisas o monedas. El sistema usa datos reales de la API ExchangeRate (https://www.exchangerate-api.com/)
-¡Hola! Soy un estudiante de programación y este es uno de mis primeros retos reales. Se trata de una aplicación sencilla pero poderosa que hice en Java para convertir dinero entre diferentes monedas (pesos mexicanos, dólares y pesos argentinos) usando datos reales de internet.
 
 ## Funciones principales del conversor de monedas
 
